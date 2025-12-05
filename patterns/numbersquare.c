@@ -11,7 +11,7 @@ int main()
             printf("%d", j);
             //printf("%d",i);  //for 1111
                                //for 2222
-                               //for 3333
+                               //for 3333cc
         }
         printf("\n");
     }
